@@ -29,6 +29,9 @@ Se um vendedor alcançar ou ultrapassar as metas todas as semanas do mês, com u
 
 O salário final seria a soma do salário mínimo, valor sobre a meta semanal, valor sobre o excedente de meta semanal e valor de excedente de meta mensal.
 
+### Resultado
+![Im](image.png)
+
 ## Entrega
 
 O sistema desenvolvido solicita o nome do vendedor, os valores de meta semanal e mensal, e, ao final, calcula o salário final e exibe ao usuário para efetuar o pagamento do salário.
